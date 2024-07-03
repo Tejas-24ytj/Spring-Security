@@ -2,6 +2,15 @@
 
 This project showcases how to integrate Spring Security into a Spring Boot application. It includes examples of authentication, authorization, and various security configurations.
 
+![Screenshot 2024-07-03 174440](https://github.com/Tejas-24ytj/Spring-Security/assets/105742352/58cc50f2-c242-4ce7-bc1c-ba7c474accc5)
+
+![Screenshot 2024-07-03 174723](https://github.com/Tejas-24ytj/Spring-Security/assets/105742352/1012480c-e2bb-4bd3-9c34-eedca9a10724)
+
+![Screenshot 2024-07-03 174944](https://github.com/Tejas-24ytj/Spring-Security/assets/105742352/d784f979-2a83-4c46-afd7-edd398b97237)
+
+![Screenshot 2024-07-03 174930](https://github.com/Tejas-24ytj/Spring-Security/assets/105742352/46caa4b8-5a64-4f7d-b68a-9daa8e41460f)
+
+
 ## Features
 
 - User Authentication
